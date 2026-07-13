@@ -202,7 +202,7 @@ tool_node = ToolNode(tools)
 # -------------------
 # 6. Checkpointer
 # -------------------
-conn = sqlite3.connect(database="MCP_Chatbot/chatbot.db", check_same_thread=False)
+conn = sqlite3.connect(database="chatbot.db", check_same_thread=False)
 checkpointer = SqliteSaver(conn=conn)
 
 # -------------------
