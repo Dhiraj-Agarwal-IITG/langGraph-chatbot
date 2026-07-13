@@ -1,0 +1,19 @@
+# --- Frontend ---
+streamlit
+
+# --- Core LangChain / LangGraph ---
+langchain-core
+langchain-community
+langchain-classic
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
+python-dotenv
+
+# --- PDF ingestion + vector store ---
+pypdf
+faiss-cpu
+
+# --- Tools ---
+duckduckgo-search
+requests
