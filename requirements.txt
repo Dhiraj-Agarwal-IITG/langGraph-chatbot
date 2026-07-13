@@ -17,3 +17,4 @@ faiss-cpu
 # --- Tools ---
 duckduckgo-search
 requests
+ddgs    
